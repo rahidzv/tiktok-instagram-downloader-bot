@@ -43,4 +43,6 @@ Open your terminal and download the code:
 git clone https://github.com/rahidzv/tiktok-instagram-downloader-bot.git
 cd tiktok-instagram-downloader-bot
 pip3 install -r requirements.txt
+echo "BOT_TOKEN=your_token_here" > .env
+echo "BOT_OWNER_ID=12345678" >> .env
 python3 main.py
