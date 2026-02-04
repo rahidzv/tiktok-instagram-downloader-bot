@@ -18,7 +18,7 @@ Don't want to keep your PC on 24/7? Deploy this bot instantly on a high-speed VP
 | **Speed** | Slow / Lags | **Ultra Fast NVMe** |
 | **Price** | Electricity bills 💸 | **Only $0.59 / mo** 😱 |
 
-[![Deploy to Serverix](https://img.shields.io/badge/🚀_Deploy_on-Serverix-7289da?style=for-the-badge&labelColor=black&logo=google-cloud)]([https://serverix.cloud])
+[![Deploy on Serverix](https://img.shields.io/badge/🚀_Deploy_on-Serverix-7289da?style=for-the-badge&labelColor=black&logo=google-cloud)](https://serverix.cloud)
 
 > *Get your server for $0.59 here: https://serverix.cloud*
 
@@ -42,3 +42,5 @@ Open your terminal and download the code:
 ```bash
 git clone [https://github.com/rahidzv/tiktok-instagram-downloader-bot.git](https://github.com/rahidzv/tiktok-instagram-downloader-bot.git)
 cd tiktok-instagram-downloader-bot
+pip3 install -r requirements.txt
+python3 main.py
