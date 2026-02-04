@@ -40,7 +40,7 @@ Follow these commands line-by-line to get the bot running in 1 minute.
 ### 1️⃣ Clone the Repository
 Open your terminal and download the code:
 ```bash
-git clone [https://github.com/rahidzv/tiktok-instagram-downloader-bot.git](https://github.com/rahidzv/tiktok-instagram-downloader-bot.git)
+git clone https://github.com/rahidzv/tiktok-instagram-downloader-bot.git
 cd tiktok-instagram-downloader-bot
 pip3 install -r requirements.txt
 python3 main.py
